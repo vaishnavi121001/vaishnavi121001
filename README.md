@@ -2,7 +2,7 @@
 
 ## 🚀 Python Full-Stack Developer | Django & REST APIs
 
-Results-driven MCA graduate (CGPA: 8.8/10) with hands-on experience building 4+ live production-ready Django applications. Passionate about backend development, scalable systems, and enterprise-level web solutions.
+Results-driven MCA graduate (CGPA: 8.80/10) with hands-on experience building 4+ live production-ready Django applications. Passionate about backend development, scalable systems, and enterprise-level web solutions.
 
 ---
 
@@ -41,7 +41,7 @@ Results-driven MCA graduate (CGPA: 8.8/10) with hands-on experience building 4+ 
 ---
 
 ## 📫 Connect With Me
-- 💼 LinkedIn: https://linkedin.com/in/YOUR-LINK-HERE
+- 💼 LinkedIn: [https://linkedin.com/in/YOUR-LINK-HERE](https://www.linkedin.com/in/vaishnavi-tijare-71b4522a9/)
 - 📧 Email: tijarevaishnavi12@gmail.com
 
 ---

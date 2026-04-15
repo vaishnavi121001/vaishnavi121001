@@ -43,7 +43,7 @@ Results-driven MCA graduate (CGPA: 8.80/10) with hands-on experience building 4+
 ## 📫 Connect With Me
 - - 💼 LinkedIn: [Vaishnavi Tijare](https://www.linkedin.com/in/vaishnavi-tijare-71b4522a9/)
 - 📧 Email: tijarevaishnavi12@gmail.com
----Leetcode : https://leetcode.com/u/YeY30O6Oat/
+- Leetcode : https://leetcode.com/u/YeY30O6Oat/
 ---
 
 ⭐ *Open to Python / Django Developer Opportunities*

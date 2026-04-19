@@ -65,20 +65,46 @@ Status: Open to Work 🚀
 
 <td width="50%">
 
-### 🏢 JK Office Suite
+### 🏢 JK Office Suite  
 
-Multi-role enterprise system
+A full-stack enterprise web application designed to streamline employee management with a structured hierarchy of Director, HR, Manager, and Staff roles.  
+The system ensures smooth coordination between departments with real-time visibility and controlled workflows.
 
-✔ QR Attendance
-✔ Email OTP
-✔ Role-based dashboards
+#### 🔑 Key Features
 
-🔗 [Live Demo](https://jk-office-suite.onrender.com)
+✔ Role-based authentication (Director, HR, Manager, Staff)  
+✔ QR-based attendance system  
+✔ Email OTP verification for secure login  
+
+✔ Smart workflow control:
+- Staff must mark attendance before accessing tasks  
+- Tasks remain locked until attendance is completed  
+- Logout is restricted until tasks are completed or valid proof (screenshot) is submitted  
+
+#### 👩‍💼 HR Module
+- Manage employee salary and generate salary slips  
+- Post job openings and handle recruitment  
+- Download recruitment data in PDF format  
+
+#### 👨‍💼 Manager Module
+- Assign tasks to staff  
+- Approve/reject staff leave requests  
+- Monitor team performance and activities  
+
+#### 👩‍💻 Staff Module
+- View and complete assigned tasks  
+- Mark attendance using QR system  
+- Submit work updates or issue screenshots  
+
+#### 🧑‍💼 Director Dashboard
+- View complete organization overview  
+- Track staff, managers, and HR assignments  
+- Monitor task allocation across teams  
+- View daily attendance and total staff on leave  
+- Access reports of all departments in real-time  
+
+🔗 [Live Demo](https://jk-office-suite.onrender.com)  
 💻 [Source Code](https://github.com/vaishnavi121001/jk-office-suite)
-
-</td>
-
-<td width="50%">
 
 ### 📊 Employee Management
 

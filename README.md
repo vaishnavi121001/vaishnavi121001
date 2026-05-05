@@ -1,191 +1,107 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:89CFF0,100:6C63FF&height=220&section=header&text=Vaishnavi%20Tijare&fontSize=42&fontColor=000000"/>
-</p>
+# 👋 Hey, I'm Vaishnavi
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00BFFF&center=true&vCenter=true&width=900&lines=Python+Full+Stack+Developer;Django+Developer;Software+Engineer;Building+Scalable+Web+Applications;Open+to+Work+🚀;Backend+Focused+Developer"/>
-</p>
-
----
-<p align="center">
-  <a href="https://www.linkedin.com/in/vaishnavi-tijare-71b4522a9/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-
-  <a href="https://leetcode.com/u/YeY30O6Oat/">
-    <img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=white"/>
-  </a>
-
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=tijarevaishnavi12@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-
-  <a href="https://github.com/vaishnavi121001">
-    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-
-  <a href="https://drive.google.com/uc?export=download&id=1Mj3dq4cuj8b9wz6vAxMGLFreOz0xbZVZ">
-    <img src="https://img.shields.io/badge/Resume-Download-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
-  </a>
-</p>
+> Turning real-world problems into structured backend systems.
 
 ---
 
-## 🧾 About Me
+## 🧠 Who Am I?
 
-<table>
-<tr>
-<td width="60%">
+I’m not just a developer who writes code —  
+I design **systems that actually work in real scenarios**.
 
-```yaml
-Name: Vaishnavi Tijare
-Role: Python Full Stack Developer
-Location: Pune, India
-Education: MCA (CGPA: 8.80)
-Focus: Backend Development | APIs | Scalable Systems
-Status: Open to Work 🚀
-```
-
-</td>
-
-<td width="40%">
-<img src="https://github-readme-stats.vercel.app/api?username=vaishnavi121001&show_icons=true&theme=tokyonight"/>
-</td>
-</tr>
-</table>
-
-💡 *I focus on building practical systems, not just projects.*
+- 🎓 MCA Graduate (CGPA: 8.80)
+- 🧩 Backend-focused Full Stack Developer
+- ⚙️ Love building logic-heavy applications
+- 📍 Based in Pune, India
+- 🚀 Currently looking for Software Developer opportunities
 
 ---
 
-## 🚀 Featured Projects
+## ⚡ What Makes Me Different?
 
-<table>
-<tr>
+Instead of building basic CRUD apps, I focus on:
 
-<td width="50%">
+✔ Real-world workflows  
+✔ Role-based system design  
+✔ Security + validation logic  
+✔ Practical constraints (like attendance before tasks)
 
-### 🏢 JK Office Suite  
-
-A full-stack enterprise web application designed to streamline employee management with a structured hierarchy of Director, HR, Manager, and Staff roles.  
-The system ensures smooth coordination between departments with real-time visibility and controlled workflows.
-
-#### 🔑 Key Features
-
-✔ Role-based authentication (Director, HR, Manager, Staff)  
-✔ QR-based attendance system  
-✔ Email OTP verification for secure login  
-
-✔ Smart workflow control:
-- Staff must mark attendance before accessing tasks  
-- Tasks remain locked until attendance is completed  
-- Logout is restricted until tasks are completed or valid proof (screenshot) is submitted  
-
-#### 👩‍💼 HR Module
-- Manage employee salary and generate salary slips  
-- Post job openings and handle recruitment  
-- Download recruitment data in PDF format  
-
-#### 👨‍💼 Manager Module
-- Assign tasks to staff  
-- Approve/reject staff leave requests  
-- Monitor team performance and activities  
-
-#### 👩‍💻 Staff Module
-- View and complete assigned tasks  
-- Mark attendance using QR system  
-- Submit work updates or issue screenshots  
-
-#### 🧑‍💼 Director Dashboard
-- View complete organization overview  
-- Track staff, managers, and HR assignments  
-- Monitor task allocation across teams  
-- View daily attendance and total staff on leave  
-- Access reports of all departments in real-time  
-
-🔗 [Live Demo](https://jk-office-suite.onrender.com)  
-💻 [Source Code](https://github.com/vaishnavi121001/jk-office-suite)
-
-### 📊 Employee Management
-
-Role-based management system
-
-✔ Task tracking
-✔ Leave management
-✔ Reporting system
-
-</td>
-
-</tr>
-</table>
+💡 *I build systems the way companies actually use them.*
 
 ---
 
-## 📊 GitHub Stats
+## 🏗️ My Signature Project
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=vaishnavi121001&show_icons=true&theme=tokyonight"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaishnavi121001&layout=compact&theme=tokyonight"/>
-</p>
+### 🏢 JK Office Suite — “Mini Corporate System”
 
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=vaishnavi121001&theme=tokyonight"/>
-</p>
+Not just a project, but a **complete working company structure**
+
+🧠 Idea:  
+Simulate how a real company operates digitally.
 
 ---
 
-## 💻 Tech Stack
+### 🔐 Core Logic
 
-### Backend
-
-![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge)
-![Django](https://img.shields.io/badge/Django-green?style=for-the-badge)
-
-### Frontend
-
-![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge)
-![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-purple?style=for-the-badge)
-
-### Programming
-
-![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge)
-
-### Database
-
-![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge)
-
-### Data Science
-
-![NumPy](https://img.shields.io/badge/NumPy-blue?style=for-the-badge)
-![Pandas](https://img.shields.io/badge/Pandas-black?style=for-the-badge)
+- Multi-role system: Director / HR / Manager / Staff  
+- Access control based on hierarchy  
+- Email OTP authentication  
+- QR-based attendance tracking  
 
 ---
 
-## 🔥 Currently
+### ⚙️ Smart Restrictions (Real-world Logic)
 
-<table>
-<tr>
-<th>Learning</th>
-<th>Building</th>
-<th>Goals</th>
-</tr>
+- ❌ No attendance → No task access  
+- ❌ Tasks incomplete → Logout blocked  
+- ✅ Proof submission required for exceptions  
 
-<tr>
-<td>Data Structures & Algorithms</td>
-<td>Django Production Projects</td>
-<td>Software Developer Role 🚀</td>
-</tr>
-
-<tr>
-<td>System Design Basics</td>
-<td>Real-world Backend Systems</td>
-<td>Strong Problem Solving</td>
-</tr>
-
-</table>
+👉 This is what makes the system realistic.
 
 ---
 
-⭐ *Consistency > Motivation*
+### 📊 Modules Breakdown
+
+**👩‍💼 HR**
+- Salary management + payslip generation  
+- Recruitment system  
+- Export data (PDF)
+
+**👨‍💼 Manager**
+- Task assignment  
+- Leave approval system  
+- Team monitoring  
+
+**👩‍💻 Staff**
+- Task execution  
+- Attendance via QR  
+- Work proof submission  
+
+**🧑‍💼 Director**
+- Full company overview  
+- Real-time reports  
+- Department-level insights  
+
+---
+
+🔗 Live: https://jk-office-suite.onrender.com  
+💻 Code: https://github.com/vaishnavi121001/jk-office-suite  
+
+---
+
+## 🛠️ Tech That I Actually Use
+
+Instead of listing everything, here’s what I *really work with*:
+
+- **Backend:** Python, Django  
+- **Frontend:** HTML, CSS, Bootstrap  
+- **Database:** MySQL  
+- **Core Strength:** Logic building + backend workflows  
+
+---
+
+## 📈 Developer Mindset
+
+```text
+I don't chase fancy tech.
+I focus on building systems that solve problems.

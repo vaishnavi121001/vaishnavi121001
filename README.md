@@ -1,107 +1,138 @@
-# 👋 Hey, I'm Vaishnavi
+# 👋 Hi, I'm Vaishnavi Tijare
 
-> Turning real-world problems into structured backend systems.
-
----
-
-## 🧠 Who Am I?
-
-I’m not just a developer who writes code —  
-I design **systems that actually work in real scenarios**.
-
-- 🎓 MCA Graduate (CGPA: 8.80)
-- 🧩 Backend-focused Full Stack Developer
-- ⚙️ Love building logic-heavy applications
-- 📍 Based in Pune, India
-- 🚀 Currently looking for Software Developer opportunities
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=6C63FF&size=26&center=true&vCenter=true&width=900&lines=Backend-Focused+Full+Stack+Developer;Django+%7C+APIs+%7C+System+Design;Building+Real-World+Applications+🚀" />
+</p>
 
 ---
 
-## ⚡ What Makes Me Different?
+## 🧠 About Me
 
-Instead of building basic CRUD apps, I focus on:
+I build applications with a strong focus on **backend logic, workflows, and real-world constraints**.
 
-✔ Real-world workflows  
-✔ Role-based system design  
-✔ Security + validation logic  
-✔ Practical constraints (like attendance before tasks)
-
-💡 *I build systems the way companies actually use them.*
-
----
-
-## 🏗️ My Signature Project
-
-### 🏢 JK Office Suite — “Mini Corporate System”
-
-Not just a project, but a **complete working company structure**
-
-🧠 Idea:  
-Simulate how a real company operates digitally.
+- 🎓 MCA Graduate (CGPA: 8.80)  
+- 💻 Python Full Stack Developer  
+- 🧩 Backend (Django)  
+- 📍 Pune, India  
+- 🚀 Open to Software Developer roles  
 
 ---
 
-### 🔐 Core Logic
+## ⚡ What Sets Me Apart
 
-- Multi-role system: Director / HR / Manager / Staff  
-- Access control based on hierarchy  
-- Email OTP authentication  
-- QR-based attendance tracking  
+I focus on how systems behave, not just features:
 
----
-
-### ⚙️ Smart Restrictions (Real-world Logic)
-
-- ❌ No attendance → No task access  
-- ❌ Tasks incomplete → Logout blocked  
-- ✅ Proof submission required for exceptions  
-
-👉 This is what makes the system realistic.
+- Role-based access control  
+- Workflow restrictions  
+- Real-time system logic  
+- Practical use-case design  
 
 ---
 
-### 📊 Modules Breakdown
+## 🚀 Featured Project
 
-**👩‍💼 HR**
-- Salary management + payslip generation  
+### 🏢 JK Office Suite — Employee Management System
+
+A full-stack web application that simulates a real company environment with structured workflows and role-based hierarchy.
+
+---
+
+### 🔐 Core Features
+
+- Multi-role authentication (Director, HR, Manager, Staff)  
+- Email OTP-based login  
+- QR-based attendance system  
+- Role-based dashboards  
+
+---
+
+### 🧠 Smart Workflow Logic
+
+- Staff must mark attendance before accessing tasks  
+- Logout restricted until tasks are completed  
+- Exception handling via proof submission  
+
+---
+
+### 📊 Modules
+
+**HR Module**
+- Employee & salary management  
+- Payslip generation  
 - Recruitment system  
-- Export data (PDF)
+- PDF export  
 
-**👨‍💼 Manager**
+**Manager Module**
 - Task assignment  
-- Leave approval system  
-- Team monitoring  
+- Leave approvals  
+- Team tracking  
 
-**👩‍💻 Staff**
+**Staff Module**
 - Task execution  
-- Attendance via QR  
-- Work proof submission  
+- QR attendance  
+- Work submission  
 
-**🧑‍💼 Director**
-- Full company overview  
-- Real-time reports  
-- Department-level insights  
-
----
-
-🔗 Live: https://jk-office-suite.onrender.com  
-💻 Code: https://github.com/vaishnavi121001/jk-office-suite  
+**Director Dashboard**
+- Organization overview  
+- Attendance & leave tracking  
+- Reports & insights  
 
 ---
 
-## 🛠️ Tech That I Actually Use
+🔗 Live Demo:  
+https://jk-office-suite.onrender.com  
 
-Instead of listing everything, here’s what I *really work with*:
-
-- **Backend:** Python, Django  
-- **Frontend:** HTML, CSS, Bootstrap  
-- **Database:** MySQL  
-- **Core Strength:** Logic building + backend workflows  
+💻 GitHub:  
+https://github.com/vaishnavi121001/jk-office-suite  
 
 ---
 
-## 📈 Developer Mindset
+## 🛠️ Tech Stack
 
-```text
-I don't chase fancy tech.
-I focus on building systems that solve problems.
+**Backend:** Python, Django  
+**Frontend:** HTML, CSS, Bootstrap  
+**Database:** MySQL  
+**Languages:** Java, C++  
+
+---
+
+---
+
+## 🎯 Professional Snapshot
+
+Role: Backend Developer  
+
+Skills:
+- Django & APIs  
+- Backend Logic  
+- Role-Based Systems  
+- Database Design  
+
+Strengths:
+- Problem Solving  
+- Clean Code  
+- Real-world Thinking  
+
+---
+
+## 📈 Currently Learning
+
+- Data Structures & Algorithms  
+- System Design  
+- Scalable Backend Development  
+
+---
+
+## 🌐 Connect With Me
+
+- LinkedIn: https://www.linkedin.com/in/vaishnavi-tijare-71b4522a9/  
+- GitHub: https://github.com/vaishnavi121001  
+- Email: tijarevaishnavi12@gmail.com  
+
+---
+
+## 💭 Philosophy
+
+"I build systems that don’t just work — they behave correctly."
+
+---

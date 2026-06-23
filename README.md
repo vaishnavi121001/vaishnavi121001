@@ -199,19 +199,11 @@ AI-powered educational platform focused on personalized learning experiences.
 
 ## 🌐 Connect With Me
 
-📧 Email
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:tijarevaishnavi12@gmail.com)
 
-**tijarevaishnavi12@gmail.com**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/vaishnavi-tijare-71b4522a9)
 
-💼 LinkedIn
-
-**linkedin.com/in/vaishnavi-tijare-71b4522a9**
-
-💻 GitHub
-
-**github.com/vaishnavi121001**
-
----
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github)](https://github.com/vaishnavi121001)
 
 ## 💭 My Approach
 
